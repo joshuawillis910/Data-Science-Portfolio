@@ -8,7 +8,7 @@
 <h3 align="left">Projects:</h3>
 
 
-<p>👨‍💻 <a href="FoodHub Analysis">Educated Analytics</a> </p> 
+<p>👨‍💻 <a href="FoodHub Analysis">FoodHub Analysis</a> </p> 
 <ul>
     <li style="margin-left: 20px;">This project involved the development of a dynamic tool for gathering location data of assets and facilitating the updating of mBI dashboards. Key skills applied included requirements gathering, web development, data visualization, and user experience design, emphasizing on specific business needs.
     </li>
