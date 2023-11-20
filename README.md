@@ -10,11 +10,11 @@
 
 <p>👨‍💻 <a href="FoodHub Analysis">FoodHub Analysis</a> </p> 
 <ul>
-    <li style="margin-left: 20px;">This project involved the development of a dynamic tool for gathering location data of assets and facilitating the updating of mBI dashboards. Key skills applied included requirements gathering, web development, data visualization, and user experience design, emphasizing on specific business needs.
+    <li style="margin-left: 20px;">This project involved the analysis of a customers data. FoodHub is a food delivery service that has collected data on customer orders and wants to analyze this data to understand the demand for different restaurants. Key skills applied included requirements gathering, python, data sience and visualization, and emphasizing on specific business needs.
     </li>
 </ul>
 <ul>
-    <li style="margin-left: 20px;">In this role, my responsibilities encompassed understanding operational needs, designing a user-friendly interface with HTML and CSS, managing and visualizing spatial data using GIS, and ensuring a secure access to PII data. The project honed my skills in customer discovery, datbase managment, security needs, and process impovement.</li>
+    <li style="margin-left: 20px;">In this role, my responsibilities were in a Data Analyst role and encompassed understanding operational needs. This included the cleaning of data, the analysis in various data science uses cases, and the clear presentation of the findings.</li>
 </ul>
 
 <p>👨‍💻 <a href="https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=4c36b512a0884a1388723ed5fa1f847c">MDOT SHA NPDES Asset Monitoring</a> </p> 
