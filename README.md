@@ -57,25 +57,13 @@
 
 <h3 align="left">Professional Experience:</h3>
 <p>📊 <a>Sales Engineer at Cape Analytics</a> </p> 
-<ul>
-    <li style="margin-left: 20px;">Masters in Data Science</li>
 
-</ul>
 <p>📊 <a>Sales Engineer at KCI Technologies</a> </p> 
-<ul>
-    <li style="margin-left: 20px;">Masters in Geospatial Information Systems</li>
 
-</ul>
 <p>📊 <a>Data Analyst at Schlumberger</a> </p> 
-<ul>
-    <li style="margin-left: 20px;">Bachelors in Geosciences and GIS</li>
 
-</ul>
 <p>📊 <a>Data Analyst at Halliburton</a> </p> 
-<ul>
-    <li style="margin-left: 20px;">Bachelors in Geosciences and GIS</li>
 
-</ul>
 
 
 <div class="connect-with-me">
