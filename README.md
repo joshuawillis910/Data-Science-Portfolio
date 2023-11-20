@@ -8,7 +8,7 @@
 <h3 align="left">Projects:</h3>
 
 
-<p>👨‍💻 <a href="[https://www.educatedanalytics.com/?pgid=lbom3e3i-3a9aad23-ce2f-4a6c-9153-b7e52546fce0](https://github.com/joshuawillis910/Portfolio/blob/main/FoodHub%20Analysis/FoodHub%20Analysis%20Presentation.pdf )">Educated Analytics</a> </p> 
+<p>👨‍💻 <a href="FoodHub Analysis">Educated Analytics</a> </p> 
 <ul>
     <li style="margin-left: 20px;">This project involved the development of a dynamic tool for gathering location data of assets and facilitating the updating of mBI dashboards. Key skills applied included requirements gathering, web development, data visualization, and user experience design, emphasizing on specific business needs.
     </li>
