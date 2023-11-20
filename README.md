@@ -6,6 +6,17 @@
 
 
 <h3 align="left">Projects:</h3>
+
+
+<p>👨‍💻 <a href="[https://www.educatedanalytics.com/?pgid=lbom3e3i-3a9aad23-ce2f-4a6c-9153-b7e52546fce0](https://github.com/joshuawillis910/Portfolio/blob/main/FoodHub%20Analysis/FoodHub%20Analysis%20Presentation.pdf )">Educated Analytics</a> </p> 
+<ul>
+    <li style="margin-left: 20px;">This project involved the development of a dynamic tool for gathering location data of assets and facilitating the updating of mBI dashboards. Key skills applied included requirements gathering, web development, data visualization, and user experience design, emphasizing on specific business needs.
+    </li>
+</ul>
+<ul>
+    <li style="margin-left: 20px;">In this role, my responsibilities encompassed understanding operational needs, designing a user-friendly interface with HTML and CSS, managing and visualizing spatial data using GIS, and ensuring a secure access to PII data. The project honed my skills in customer discovery, datbase managment, security needs, and process impovement.</li>
+</ul>
+
 <p>👨‍💻 <a href="https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=4c36b512a0884a1388723ed5fa1f847c">MDOT SHA NPDES Asset Monitoring</a> </p> 
 <ul>
     <li style="margin-left: 20px;">This project involved the development of a dynamic tool for gathering mobile data from users and updating a monitoring map and dashboard. Key skills applied included requirements gathering, web development, HTML, GIS, data analysis, and user experience design, emphasizing on real-time asset management and decision-making.
