@@ -28,7 +28,7 @@
 
   <div class="email-link">
     <a href="mailto:jkw910@gmail.com" target="_blank">
-      <span>📫 How to reach me:</span> jkw910@gmail.com
+      <span> 📫 How to reach me:</span> jkw910@gmail.com
     </a>
   </div>
 </div>
