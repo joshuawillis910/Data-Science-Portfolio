@@ -15,6 +15,14 @@
     <li style="margin-left: 20px;">In this role, my responsibilities encompassed understanding operational needs, designing a user-friendly interface with HTML and CSS, managing and visualizing spatial data using GIS, and ensuring an engaging user experience. The project honed my skills in technical development and stakeholder collaboration, contributing significantly to the field of asset management and geospatial data analysis.</li>
 </ul>
 
+<p>👨‍💻 <a href="https://www.educatedanalytics.com/?pgid=lbom3e3i-3a9aad23-ce2f-4a6c-9153-b7e52546fce0">Educated Analytics</a> </p> 
+<ul>
+    <li style="margin-left: 20px;">This project involved the development of a dynamic tool for gathering location data of assets and facilitating the updating of mBI dashboards. Key skills applied included requirements gathering, web development, data visualization, and user experience design, emphasizing on specific business needs.
+    </li>
+</ul>
+<ul>
+    <li style="margin-left: 20px;">In this role, my responsibilities encompassed understanding operational needs, designing a user-friendly interface with HTML and CSS, managing and visualizing spatial data using GIS, and ensuring a secure access to PII data. The project honed my skills in customer discovery, security needs, and process impovement.</li>
+</ul>
 
 
 
