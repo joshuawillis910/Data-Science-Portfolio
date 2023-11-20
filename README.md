@@ -5,8 +5,8 @@
 <h3>Accomplished pre sales engineer with a strong background in data science, workflow design, and data-driven analytics. With a proven track record of cultivating strategic partnerships in numerous industries and leveraging cutting-edge technologies, I am dedicated to optimizing data processes, enhancing efficiency, and delivering valuable insights to prospects and clients.</h3>
 
 
-<h3 align="left">Connect with me:</h3>
-- 👨‍💻👨‍💻 I have worked on asset management and monitoring projects [MDOT NDPES](https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=4c36b512a0884a1388723ed5fa1f847c)
+<h3 align="left">Projects:</h3>
+- 👨‍💻 I have worked on asset management and monitoring projects [MDOT NDPES](https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=4c36b512a0884a1388723ed5fa1f847c)
 
 
 
