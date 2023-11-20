@@ -6,7 +6,8 @@
 
 
 <h3 align="left">Projects:</h3>
-👨‍💻 I have worked on asset management and monitoring projects [MDOT SHA NPDES Dashboard](https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=4c36b512a0884a1388723ed5fa1f847c)
+<p>👨‍💻 I have worked on asset management and monitoring projects on the <a href="https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=4c36b512a0884a1388723ed5fa1f847c">MDOT</a>.</p>
+
 
 
 
