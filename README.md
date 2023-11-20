@@ -37,6 +37,22 @@
 
 
 
+<h3 align="left">Education:</h3>
+
+<p>🎓 <a>University of Texas at Austin</a> </p> 
+<ul>
+    <li style="margin-left: 20px;">Master in Data Science</li>
+
+
+
+
+
+<h3 align="left">Professional Experience:</h3>
+<p>🎓 <a>University of Texas at Austin</a> </p> 
+<ul>
+    <li style="margin-left: 20px;">Master in Data Science</li>
+
+
 
 
 
