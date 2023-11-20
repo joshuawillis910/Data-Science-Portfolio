@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joshua Willis</h1>
 
-<h3 align="center">💬 Ask me about **Technical Pre Sales, Data Analysis, and Product Fit**</h3>
+<h3 align="center">💬 Ask me about Technical Pre Sales, Data Analysis, and Product Fit</h3>
 
 <h3>Accomplished pre sales engineer with a strong background in data science, workflow design, and data-driven analytics. With a proven track record of cultivating strategic partnerships in numerous industries and leveraging cutting-edge technologies, I am dedicated to optimizing data processes, enhancing efficiency, and delivering valuable insights to prospects and clients.</h3>
 
