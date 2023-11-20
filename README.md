@@ -19,7 +19,7 @@
 
 <p>👨‍💻 <a href="https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=4c36b512a0884a1388723ed5fa1f847c">MDOT SHA NPDES Asset Monitoring</a> </p> 
 <ul>
-    <li style="margin-left: 20px;">This project involved the development of a dynamic tool for gathering mobile data from users and updating a monitoring map and dashboard. Key skills applied included requirements gathering, web development, HTML, GIS, data analysis, and user experience design, emphasizing on real-time asset management and decision-making.
+    <li style="margin-left: 20px;">This project involved the managment of a dynamic tool for gathering mobile data from users and updating a monitoring map and dashboard. Key skills applied included requirements gathering, web development, HTML, GIS, data analysis, and user experience design, emphasizing on real-time asset management and decision-making.
     </li>
 </ul>
 <ul>
