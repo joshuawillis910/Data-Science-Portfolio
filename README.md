@@ -50,7 +50,17 @@
 <h3 align="left">Professional Experience:</h3>
 <p>🎓 <a>University of Texas at Austin</a> </p> 
 <ul>
-    <li style="margin-left: 20px;">Master in Data Science</li>
+    <li style="margin-left: 20px;">Masters in Data Science</li>
+
+</ul>
+<p>🎓 <a>Texas A&M University</a> </p> 
+<ul>
+    <li style="margin-left: 20px;">Masters in Geospatial Information Systems</li>
+
+</ul>
+<p>🎓 <a>Texas Tech University</a> </p> 
+<ul>
+    <li style="margin-left: 20px;">Bachelors in Geosciences and GIS</li>
 
 </ul>
 
