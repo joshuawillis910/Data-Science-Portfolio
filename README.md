@@ -6,7 +6,11 @@
 
 
 <h3 align="left">Projects:</h3>
-<p>👨‍💻 I have worked on asset management and monitoring projects on the <a href="https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=4c36b512a0884a1388723ed5fa1f847c">MDOT SHA NPDES Asset Monitoring</a>. This project involved the development of a dynamic tool for gathering mobile data from users and updating a monitoring map and dashboard. Key skills applied included requirements gathering, web development, HTML, GIS, data analysis, and user experience design, emphasizing on real-time asset management and decision-making.</p>
+<p>👨‍💻 I have worked on asset management and monitoring projects on the <a href="https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=4c36b512a0884a1388723ed5fa1f847c">MDOT SHA NPDES Asset Monitoring</a>.</p> 
+<ul>
+    <li style="margin-left: 20px;">This project involved the development of a dynamic tool for gathering mobile data from users and updating a monitoring map and dashboard. Key skills applied included requirements gathering, web development, HTML, GIS, data analysis, and user experience design, emphasizing on real-time asset management and decision-making.
+    </li>
+</ul>
 <ul>
     <li style="margin-left: 20px;">In this role, my responsibilities encompassed understanding operational needs, designing a user-friendly interface with HTML and CSS, managing and visualizing spatial data using GIS, and ensuring an engaging user experience. The project honed my skills in technical development and stakeholder collaboration, contributing significantly to the field of asset management and geospatial data analysis.</li>
 </ul>
