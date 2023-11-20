@@ -4,6 +4,16 @@
 
 <h3>Accomplished pre sales engineer with a strong background in data science, workflow design, and data-driven analytics. With a proven track record of cultivating strategic partnerships in numerous industries and leveraging cutting-edge technologies, I am dedicated to optimizing data processes, enhancing efficiency, and delivering valuable insights to prospects and clients.</h3>
 
+<h3 align="left">Education:</h3>
+
+<p>🎓 <a>University of Texas at Austin</a> </p> 
+<ul>
+    <li style="margin-left: 20px;">Master in Data Science</li>
+
+
+<h3 align="left">Professional Experience:</h3>
+
+
 
 <h3 align="left">Projects:</h3>
 
