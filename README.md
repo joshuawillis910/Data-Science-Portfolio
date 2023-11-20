@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Portfolio
 Repository containing portfolio of data science, data analytics and other projects completed by me for professional, academic, hobby, and self learning purposes.
 
 ## Instructions for Running Python Notebooks Locally
