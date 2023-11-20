@@ -16,8 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joshua-k-willis/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joshua-k-willis/" height="30" width="40" /></a>
-
+<br>
 <a href="mailto:jkw910@gmail.com" target="_blank">📫 How to reach me: jkw910@gmail.com</a>
+
 
 
 <h3 align="left">Some of the tools I have used:</h3>
