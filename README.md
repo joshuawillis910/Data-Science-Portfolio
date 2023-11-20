@@ -6,7 +6,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- 👨‍💻 I have worked on asset managment and monitering projects [MDOT NDPES](https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=4c36b512a0884a1388723ed5fa1f847c)
+- 👨‍💻👨‍💻 I have worked on asset management and monitoring projects [MDOT NDPES](https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=4c36b512a0884a1388723ed5fa1f847c)
+
 
 
 
