@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joshua Willis</h1>
 <h3 align="center">Accomplished pre sales/solutions engineer with a strong background in data science, workflow design, and data-driven analytics. With a proven track record of cultivating strategic partnerships in numerous industries and leveraging cutting-edge technologies, I am dedicated to optimizing data processes, enhancing efficiency, and delivering valuable insights to prospects and clients.</h3>
 
-- 📫 How to reach me **jkw910@gmail.com**
+- 📫 Reach me **jkw910@gmail.com**
 
-- ⚡ Fun fact **I love sports, international travel, and cooking**
+- ⚡ Interests **I love sports, international travel, science, and cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
