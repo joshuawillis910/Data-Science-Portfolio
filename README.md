@@ -56,13 +56,13 @@
 </ul>
 
 <h3 align="left">Professional Experience:</h3>
-<p>📊 <a>Sales Engineer at Cape Analytics</a> </p> 
+<p>📊 <a>Ex Sales Engineer at Cape Analytics</a> </p> 
 
-<p>📊 <a>Sales Engineer at KCI Technologies</a> </p> 
+<p>📊 <a>Ex Sales Engineer at KCI Technologies</a> </p> 
 
-<p>📊 <a>Data Analyst at Schlumberger</a> </p> 
+<p>📊 <a>Ex Data Analyst at Schlumberger</a> </p> 
 
-<p>📊 <a>Data Analyst at Halliburton</a> </p> 
+<p>📊 <a>Ex Data Analyst at Halliburton</a> </p> 
 
 
 
