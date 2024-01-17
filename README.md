@@ -78,17 +78,19 @@
   <h3 align="left">Connect with me:</h3>
 
   <div class="linkedin-link">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/joshua-k-willis/" target="blank">
+    <span>🤝 Let's connect:</span>
+    <a href="https://www.linkedin.com/in/joshua-k-willis/" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
     </a>
   </div>
 
   <div class="email-link">
-    <a href="mailto:jkw910@gmail.com" target="_blank">
-      <span> 📫 How to reach me:</span> jkw910@gmail.com
-    </a>
+    <span> 📫 How to reach me:</span>
+    <a href="mailto:jkw910@gmail.com" target="_blank">jkw910@gmail.com</a>
   </div>
 </div>
+
+
 
 
 
