@@ -6,6 +6,14 @@
 
 <h3 align="left">Projects:</h3>
 
+<p>👨‍💻 <a href="ReCell Analysis">ReCell Analysis</a> </p> 
+<ul>
+    <li style="margin-left: 20px;">This project involved the analysis of a customers data. FoodHub is a food delivery service that has collected data on customer orders and wants to analyze this data to understand the demand for different restaurants. Key skills applied included requirements gathering, python, data sience and visualization, and emphasizing on specific business needs.
+    </li>
+</ul>
+<ul>
+    <li style="margin-left: 20px;">In this role, my responsibilities were in a Data Analyst role and encompassed understanding operational needs. This included the cleaning of data, the analysis in various data science uses cases, and the clear presentation of the findings.</li>
+</ul>
 
 <p>👨‍💻 <a href="FoodHub Analysis">FoodHub Analysis</a> </p> 
 <ul>
