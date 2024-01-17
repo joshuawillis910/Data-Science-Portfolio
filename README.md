@@ -8,11 +8,11 @@
 
 <p>👨‍💻 <a href="https://github.com/joshuawillis910/Portfolio/tree/main/ReCell%20Project">ReCell Analysis</a> </p> 
 <ul>
-    <li style="margin-left: 20px;">This project involved the analysis of a customers data. FoodHub is a food delivery service that has collected data on customer orders and wants to analyze this data to understand the demand for different restaurants. Key skills applied included requirements gathering, python, data sience and visualization, and emphasizing on specific business needs.
+    <li style="margin-left: 20px;">This project involved analyzing used cell phone data for ReCell, a company specializing in the resale of mobile devices. The objective was to understand the factors affecting the resale value of these devices. Key skills applied in this project included data analysis, machine learning, and statistical modeling, with a focus on addressing specific business queries through data-driven insights.
     </li>
 </ul>
 <ul>
-    <li style="margin-left: 20px;">In this role, my responsibilities were in a Data Analyst role and encompassed understanding operational needs. This included the cleaning of data, the analysis in various data science uses cases, and the clear presentation of the findings.</li>
+    <li style="margin-left: 20px;">In my role as a Data Scientist, my responsibilities encompassed a comprehensive understanding of ReCell's operational needs. This included rigorous data cleaning, performing exploratory data analysis to uncover trends and patterns, and applying supervised machine learning techniques to predict used cell phone prices. The role also involved effectively communicating these findings, ensuring that the insights derived were both accessible and actionable for strategic business decisions.</li>
 </ul>
 
 <p>👨‍💻 <a href="FoodHub Analysis">FoodHub Analysis</a> </p> 
